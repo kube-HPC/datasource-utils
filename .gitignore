@@ -65,3 +65,5 @@ typings/
 
 # keys
 *.key
+
+temp/
