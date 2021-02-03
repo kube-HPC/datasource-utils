@@ -1,0 +1,15 @@
+outs:
+- md5: 6c7f1202e1c77800c984fc8f19760d4b
+  size: 4790
+  path: outdated.jpg
+meta:
+  hkube:
+    id: cli-ou3w
+    name: outdated.jpg
+    size: 4790
+    type: image/jpeg
+    meta: ''
+    uploadedAt: 1611838817676
+    hash: not-the-same-hash
+  other:
+    shouldNotChange: true
