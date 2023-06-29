@@ -28,7 +28,7 @@
     "fs-extra": "^9.1.0",
     "glob": "^7.1.6",
     "js-yaml": "^4.0.0",
-    "simple-git": "^2.31.0"
+    "simple-git": "^2.48.0"
   },
   "devDependencies": {
     "@hkube/db": "^1.0.32",
